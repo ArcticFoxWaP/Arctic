@@ -1,1 +1,1 @@
-ÄrcticFox".reverse
+"ArcticFox".reverse
